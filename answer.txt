@@ -11,3 +11,8 @@ A3) The three types of meetings are sprint planning meeting, daily scrum/standup
 stories in the sprint scope are moved from backlog to current sprint and stories points are determined and assigned. In the standup meeting, team members 
 discuss work completed, work plan for the day and any blockers. In the sprint retrospective meeting, the completed work is discussed and incomplete work is 
 moved to backlog.
+
+Q4) Differentiate between Epic, story, bug, and Task issue types in JIRA.
+A4) An epic captures a large body of work that can be broken down into several smaller stories. A story is a software system requirement that is expressed in
+    a few short sentences. Bugs are problems that impede the progress or functionality of work. A task is a unit of work the team performs to deliver a 
+    backlog item that is estimated in hours.
